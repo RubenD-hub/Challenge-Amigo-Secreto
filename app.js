@@ -11,6 +11,11 @@ function agregarAmigo() {
     alert("Por favor, inserte un nombre.");
   } else {
     amigos.push(nombreAmigo);
+    limpiarCampo();
     console.log(amigos);
   }
 }
+
+function limpiarCampo() {
+    document.querySelector("#amigo").value = "";
+  }
