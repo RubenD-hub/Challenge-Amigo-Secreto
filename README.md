@@ -18,8 +18,8 @@
 <details>
   <summary>Indice</summary>
 
-- [Acerca del proyecto](#acerca-del-proyecto)
-- [Construido con:](#construido-con)
+- [🤔Acerca del proyecto](#acerca-del-proyecto)
+- [👷‍♂️Construido con:](#️construido-con)
 - [🛠Cómo empezar.](#cómo-empezar)
   - [📜Pre-requisitos](#pre-requisitos)
   - [💻Iniciar el minijuego](#iniciar-el-minijuego)
@@ -31,7 +31,7 @@
 
 ---
 
-## Acerca del proyecto
+## 🤔Acerca del proyecto
 
 En el actual proyecto haremos uso de los conocimientos aprendidos en el curso de **Lógica de Programación** impartido por **ALURA Latam** - **ONE** (Oracle Next Education).
 
@@ -43,7 +43,7 @@ Hay que tener en cuenta que se necesitaran algunas restricciones y validaciones,
 
 ---
 
-## Construido con:
+## 👷‍♂️Construido con:
 
 Su construcción fue mediante las siguientes herramientas:
 
@@ -71,14 +71,17 @@ Hay varias maneras de desplegar el minijuego, pero la mas util es tener un explo
 ### 💻Iniciar el minijuego
 
 Una vez descargado el repositorio y tener listos los archivos, solo se necesita abrir el archivo `index.html` con el navegador de tu preferencia.
+
 ![Archivos](img/image-2.png)
 
 Se abrirá una nueva pestaña en el buscador y se podrá iniciar el minijuego.
+
 ![Pantalla Principal](img/pantallaPrincipal.png)
 
 
 
 ## 🛶Funcionamiento 
+
 ![Funcionamiento del minijuego](img/Ejecucion.gif)
 
 1. Se necesita ir añadiendo los nombres de amigos, para lo cual en el cuadro de entrada se escribe el nombre y una vez listo, se da click en añadir
@@ -94,8 +97,8 @@ Se abrirá una nueva pestaña en el buscador y se podrá iniciar el minijuego.
 ## Roadmap
 En esta primera version, se logro el objetivos del sorteo, pero aun se podría mejorar agregando mas características haciendo mas util y entretenido el juego.
 
-- [x] Añadir amigos
-- [x] Sorteo de amigo
+- [X] Añadir amigos
+- [X] Sorteo de amigo
 - [ ] Agregar restriccion de nombres repetidos
 - [ ] Sortear todos los nombres agregados
 - [ ] Eliminar los nombres ya sorteados de la lista
